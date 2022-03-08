@@ -1,0 +1,29 @@
+_repo: Vorosmarty-eletrajza_67508
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gyulai, Pál
+    alias: Gyulai, Pal
+    birthdate: 1826
+    deathdate: 1909
+    gutenberg_agent_id: '42135'
+    url: http://www.gutenberg.org/2009/agents/42135
+    wikipedia: https://hu.wikipedia.org/wiki/Gyulai_P%C3%A1l_%28irodalomt%C3%B6rt%C3%A9n%C3%A9sz%29
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67508'
+language: hu
+pgterms:marc905: 20220225012658gyulai
+pgterms:marc906: '1890'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vörösmarty életrajza
+url: http://www.gutenberg.org/ebooks/67508
