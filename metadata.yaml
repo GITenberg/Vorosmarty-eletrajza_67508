@@ -1,5 +1,8 @@
 _repo: Vorosmarty-eletrajza_67508
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67508-h/images/cover.jpg
 creator:
   author:
     agent_name: Gyulai, Pál
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42135
     wikipedia: https://hu.wikipedia.org/wiki/Gyulai_P%C3%A1l_%28irodalomt%C3%B6rt%C3%A9n%C3%A9sz%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67508#Vorosmarty-eletrajza
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67508'
